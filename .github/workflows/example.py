@@ -1,4 +1,4 @@
-
+import os
 
 from dolfin import *
 import numpy
